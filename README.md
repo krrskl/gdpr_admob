@@ -19,7 +19,7 @@ dependencies:
   flutter:
     sdk: flutter
   google_mobile_ads: ^5.1.0
-  gdpr_admob: ^0.0.1
+  gdpr_admob: ^1.0.1
 ```
 
 ### 2. Import Packages
