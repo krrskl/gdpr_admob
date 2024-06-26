@@ -7,3 +7,9 @@ Please note that this is the first release (version 1.0.1) of the new Flutter pa
 - Initial release of the new Flutter package.
 - Implemented basic functionalities.
 - Improved error handling for network connectivity issues.
+
+## [1.0.2]
+
+### Added
+
+- some updates.
