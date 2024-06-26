@@ -1,7 +1,7 @@
 name: gdpr_admob
 description: A Flutter package to manage GDPR consent for AdMob.
 version: 1.0.1
-homepage:
+homepage: https://github.com/Abdullah-Youssef/gdpr_admob.git
 
 environment:
   sdk: ">=3.4.1 <4.0.0"
