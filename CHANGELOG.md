@@ -10,6 +10,12 @@ Please note that this is the first release (version 1.0.1) of the new Flutter pa
 
 ## [1.0.2]
 
-### Added
+### Updates
 
 - some updates.
+
+## [1.0.3]
+
+### Updates
+
+- update google_mobile_ads to 5.2.0.

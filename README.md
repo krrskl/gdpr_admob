@@ -18,8 +18,8 @@ Add the following dependencies to your `pubspec.yaml` file:
 dependencies:
   flutter:
     sdk: flutter
-  google_mobile_ads: ^5.1.0
-  gdpr_admob: ^1.0.1
+  google_mobile_ads: ^5.2.0
+  gdpr_admob: ^1.0.3
 ```
 
 ### 2. Import Packages
